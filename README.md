@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 欢迎过来看看：[https://blog.hxgpark.com/](https://blog.hxgpark.com/)
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septemberhx&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=septemberhx&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=septemberhx&theme=github" />
+  </a>
+</div>
