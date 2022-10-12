@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septemberhx&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septemberhx&theme=github" width="49%" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=septemberhx&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=septemberhx&theme=github" width="24%" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=septemberhx&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=septemberhx&theme=github" width="24%" />
   </a>
 </div>
